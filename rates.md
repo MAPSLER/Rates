@@ -1,6 +1,11 @@
 # Rates
 https://adf.ly/rates
 
+CLOUD RATES IP 6
+Class A	Class B	Class C	Class D	Class E
+0.0.0.0 - 127.255.255.255	128.0.0.0 - 191.255.255.255	192.0.0.0 - 223.255.255.255	224.0.0.0 - 239.255.255.255	240.0.0.0 - 255.255.255.255
+
+
 CLone Repository UID PAY PAL Clicer
 
 Наивысший	Unique	Raw	Unique	Raw
